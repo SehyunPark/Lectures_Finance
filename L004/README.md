@@ -5,6 +5,6 @@ The Hong Kong University of Science and Technology
 
 | Wks | Topic | Summary | Date | LINK |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Week 1 | Visualizing and Munging Stock Data | | |
+| Week 1 | Visualizing and Munging Stock Data | | | 2024/12/12 |
 
 </div>
